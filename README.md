@@ -1,13 +1,15 @@
-<img align='right' src="assets/gravatar.png" alt="" width="120"/>
+<img align='right' src="assets/gravatar.png" alt="" width="140"/>
+<div align="center">
+  <h1>👋 Hi, this is Gatovsky </h1>
+</div>
 
-# 👋 Hi, this is Gatovsky 
-
+ 
 - [x] Computer systems student
 - [x] Linux user 
 - [x] Otaku who takes a bath 
 - [x] Dockerlover
 
-## 🌱 Constantly growing 📈 
+## 🌱 Constantly growing 📈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPy-2B2728?style=flat&logo=micropython)
@@ -32,9 +34,18 @@
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
 
 
-![Gatovsky](https://github-readme-stats.vercel.app/api/top-langs/?username=hharieta&hide=SCSS,CSS,HTML,CSS,ASP.NET,ShaderLab,HLSL,Jupyter%20Notebook&show_icons=true&layout=compact&hide_border=true&role=OWNER,COLLABORATOR&theme=transparent) ![Gatovsky](https://github-readme-stats.vercel.app/api?username=hharieta&count_private=true&show_icons=true&hide_border=true&theme=transparent)
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language">
+<img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hharieta&hide=SCSS,CSS,HTML,CSS,ASP.NET,ShaderLab,HLSL,Jupyter%20Notebook&show_icons=true&layout=compact&hide_border=true&role=OWNER,COLLABORATOR&theme=transparent" alt="Top langs" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=210 src="https://github-readme-stats.vercel.app/api?username=hharieta&count_private=true&show_icons=true&hide_border=true&theme=transparent" alt="My stats" />
+</a> 
+</div>
 
-### 💞️ Looking to collaborate on backend projects.
+### 💞️ Looking to collaborate on backend projects
+
+- :mailbox: Reach me: [L20530228@cancun.tecnm.mx](https://mail.google.com/mail/u/0/#inbox) 
 <!---
 hharieta/hharieta is a ✨ special ✨ repository because I said so
 --->
