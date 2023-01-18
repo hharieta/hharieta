@@ -35,11 +35,11 @@
 
 
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language">
-<img height=210 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hharieta&hide=SCSS,CSS,HTML,CSS,ASP.NET,ShaderLab,HLSL,Jupyter%20Notebook&show_icons=true&layout=compact&hide_border=true&role=OWNER,COLLABORATOR&theme=transparent" alt="Top langs" />
+<a href="https://github.com/hharieta/github-readme-stats" title="Most Used Language">
+<img height=210 width=420 src="https://github-readme-stats-9gwa6on1v-hharieta.vercel.app/api/top-langs/?username=hharieta&hide=SCSS,CSS,HTML,CSS,ASP.NET,ShaderLab,HLSL,Jupyter%20Notebook&show_icons=true&layout=compact&hide_border=true&role=OWNER,COLLABORATOR&theme=transparent" alt="Top langs" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=210 width=420 src="https://github-readme-stats.vercel.app/api?username=hharieta&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="My stats" />
+<a href="https://github.com/hharieta/github-readme-stats">
+<img height=210 width=420 src="https://github-readme-stats-9gwa6on1v-hharieta.vercel.app/api?username=hharieta&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="My stats" />
 </a> 
 </div>
 
