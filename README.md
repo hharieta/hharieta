@@ -12,7 +12,7 @@
 ## 🌱 Constantly growing 📈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPy-2B2728?style=flat&logo=micropython)
+![GO](https://img.shields.io/badge/GO-29BEB0?style=flat&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175c2?style=flat&logo=dart)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white) 
@@ -36,7 +36,7 @@
 
 <div align="center"> 
 <a href="https://github.com/hharieta/github-readme-stats" title="Most Used Language">
-<img height=210 width=420 src="https://github-readme-stats-9gwa6on1v-hharieta.vercel.app/api/top-langs/?username=hharieta&hide=SCSS,CSS,HTML,CSS,ASP.NET,ShaderLab,HLSL,Jupyter%20Notebook&show_icons=true&layout=compact&hide_border=true&role=OWNER,COLLABORATOR&theme=transparent" alt="Top langs" />
+<img height=210 width=420 src="https://github-readme-stats-9gwa6on1v-hharieta.vercel.app/api/top-langs/?username=hharieta&langs_count=6&hide=SCSS,CSS,HTML,CSS,ASP.NET,C,ShaderLab,HLSL,Jupyter%20Notebook,C%2B%2B,C%23&show_icons=true&layout=compact&hide_border=true&role=OWNER,COLLABORATOR&theme=transparent" alt="Top langs" />
 </a>
 <a href="https://github.com/hharieta/github-readme-stats">
 <img height=210 width=420 src="https://github-readme-stats-9gwa6on1v-hharieta.vercel.app/api?username=hharieta&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="My stats" />
