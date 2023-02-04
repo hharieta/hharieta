@@ -1,13 +1,40 @@
 <img align='right' src="assets/gravatar.png" alt="" width="140"/>
+<img align='left' src="assets/buddies.png" alt="" width="140"/>
 <div align="center">
   <h1>👋 Hi, this is Gatovsky </h1>
 </div>
 
- 
-- [x] Computer systems student
-- [x] Linux user 
-- [x] Otaku who takes a bath 
-- [x] Dockerlover
+```text
+💻 Engineering systems student
+🧙🏻‍♂️ Linux user 
+🦹🏾‍♂️ Otaku who takes a bath 
+🐍 Pythonista
+🐋 Dockerlover
+```
+
+```mermaid
+sequenceDiagram
+
+Me->>Engineering systems: Hold on
+Note over Python: Javazzzz
+loop codify
+    Engineering systems->>Engineering systems: Fight against semicolon
+end
+Note right of Engineering systems: Rational profanities
+Engineering systems-->>Me: Sorry bro, F
+Note over Linux: Duck Nvidia UwU
+Me->>Linux: This will be your year
+Me->>+Docker: Love U
+loop build
+  Docker-->>Docker: Deploy MySQL
+end
+Docker-->>-Me: a
+Docker-->>Python: Who are you?
+Engineering systems-->>Me: How about Python?
+Me->>Python: print("Hello!")
+Docker-->>Linux: Jolly good!
+```
+
 
 ## 🌱 Constantly growing 📈
 
