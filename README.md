@@ -1,16 +1,16 @@
 <img align='right' src="assets/gravatar.png" alt="" width="140"/>
-<img align='left' src="assets/buddies.png" alt="" width="140"/>
 <div align="center">
   <h1>👋 Hi, this is Gatovsky </h1>
 </div>
 
-```text
-💻 Engineering systems student
-🧙🏻‍♂️ Linux user 
-🦹🏾‍♂️ Otaku who takes a bath 
-🐍 Pythonista
-🐋 Dockerlover
-```
+  
+  ```text
+  💻 Engineering systems student
+  🧙🏻‍♂️ Linux user 
+  🤓 Otaku who takes a bath 
+  🐍 Pythonista
+  🐋 Dockerlover
+  ```
 
 ```mermaid
 sequenceDiagram
@@ -25,17 +25,13 @@ Engineering systems-->>Me: Sorry bro, F
 Note over Linux: Duck Nvidia UwU
 Me->>Linux: This will be your year
 Me->>+Docker: Love U
-loop build
-  Docker-->>Docker: Deploy MySQL
-end
 Docker-->>-Me: a
-Docker-->>Python: Who are you?
 Engineering systems-->>Me: How about Python?
 Me->>Python: print("Hello!")
 Docker-->>Linux: Jolly good!
 ```
 
-
+ 
 ## 🌱 Constantly growing 📈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -70,9 +66,6 @@ Docker-->>Linux: Jolly good!
 </a> 
 </div>
 
-### 💞️ Looking to collaborate on backend projects
-
-- :mailbox: Reach me: [L20530228@cancun.tecnm.mx](https://mail.google.com/mail/u/0/#inbox) 
 <!---
 hharieta/hharieta is a ✨ special ✨ repository because I said so
 --->
