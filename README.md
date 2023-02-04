@@ -1,10 +1,10 @@
 <img align='right' src="assets/gravatar.png" alt="" width="140"/>
-<div align="center">
+<div align="left">
   <h1>👋 Hi, this is Gatovsky </h1>
 </div>
 
   
-  ```text
+  ```
   💻 Engineering systems student
   🧙🏻‍♂️ Linux user 
   🤓 Otaku who takes a bath 
@@ -12,27 +12,13 @@
   🐋 Dockerlover
   ```
 
-```mermaid
-sequenceDiagram
-
-Me->>Engineering systems: Hold on
-Note over Python: Javazzzz
-loop codify
-    Engineering systems->>Engineering systems: Fight against semicolon
-end
-Note right of Engineering systems: Rational profanities
-Engineering systems-->>Me: Sorry bro, F
-Note over Linux: Duck Nvidia UwU
-Me->>Linux: This will be your year
-Me->>+Docker: Love U
-Docker-->>-Me: a
-Engineering systems-->>Me: How about Python?
-Me->>Python: print("Hello!")
-Docker-->>Linux: Jolly good!
-```
-
- 
-## 🌱 Constantly growing 📈
+<div align="left">
+  <img align='right' src="assets/cron.gif" alt="40" width="120"/>
+  <h2>Operation Skuld</h2>
+</div>
+<div align='left'>
+  <img align='left' src="assets/makise.png" alt="" width="220"/>
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GO](https://img.shields.io/badge/GO-29BEB0?style=flat&logo=go&logoColor=white)
@@ -65,6 +51,10 @@ Docker-->>Linux: Jolly good!
 <img height=210 width=420 src="https://github-readme-stats-9gwa6on1v-hharieta.vercel.app/api?username=hharieta&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="My stats" />
 </a> 
 </div>
+
+
+### El Psy Congroo...
+
 
 <!---
 hharieta/hharieta is a ✨ special ✨ repository because I said so
