@@ -42,7 +42,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
 
-
+<!---
 <div align="center"> 
 <a href="https://github.com/hharieta/github-readme-stats" title="Most Used Language">
 <img height=210 width=420 src="https://github-readme-stats-iota-opal.vercel.app/api/top-langs/?username=hharieta&langs_count=6&hide=SCSS,CSS,HTML,CSS,ASP.NET,C,ShaderLab,HLSL,Jupyter%20Notebook,Makefile,C%2B%2B,C%23&show_icons=true&layout=compact&hide_border=true&role=OWNER,COLLABORATOR&theme=transparent" alt="Top langs" />
@@ -51,7 +51,7 @@
 <img height=210 width=420 src="https://github-readme-stats-iota-opal.vercel.app/api?username=hharieta&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="My stats" />
 </a> 
 </div>
-
+---->
 
 ### El Psy Congroo...
 
